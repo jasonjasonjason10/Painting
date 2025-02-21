@@ -41,9 +41,6 @@ a {
 
 .button {
   background-color: rgb(238, 137, 14);
-  /* margin: 50px; */
-  display: flex;
-  justify-content: center;
   position: absolute;
   margin: auto;
   right: 0;
@@ -55,7 +52,7 @@ a {
 }
 
 section {
-  border: solid black 1px;
+  border: solid black 3px;
   border-radius: 3%;
   /* margin: 2rem;
     padding: 2rem; */
